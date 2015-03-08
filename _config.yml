@@ -11,6 +11,17 @@ color:
   secondary: fec503
   secondary-dark: 333
 
+# name, title and social links
+people:
+- name: Leon Peck
+  pic: 1
+  position: Apprentice Software Developer
+  social:
+    - title: github
+      url: https://github.com/LeonM234
+    - title: linkedin
+      url: http://www.linkedin.com/in/leonm234/en
+
 # Build settings
 markdown: kramdown
 permalink: pretty
