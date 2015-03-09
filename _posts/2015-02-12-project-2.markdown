@@ -1,0 +1,15 @@
+---
+title: Good Night
+subtitle: WPF Desktop App
+layout: default
+modal-id: 2
+date: 2015-02-12
+img: dreams.png
+thumbnail: dreams-thumbnail.png
+alt: image-alt
+project-date: February 2015
+project: Class Assignment
+category: Desktop App
+description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+
+---
