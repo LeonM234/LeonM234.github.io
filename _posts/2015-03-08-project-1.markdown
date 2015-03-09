@@ -3,12 +3,12 @@ title: Forge
 subtitle: Capstone Project 1
 layout: default
 modal-id: 1
-date: 2014-07-18
+date: 2015-03-08
 img: dreams.png
 thumbnail: dreams-thumbnail.png
 alt: image-alt
 project-date: December 2014
-project: Start Bootstrap
+project: First Half Capstone
 category: Front End SPA
 description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
 
