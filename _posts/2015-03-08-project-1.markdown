@@ -4,12 +4,12 @@ subtitle: Capstone Project 1
 layout: default
 modal-id: 1
 date: 2015-03-08
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+img: forge.jpg
+thumbnail: forge-thumbnail.jpg
 alt: image-alt
 project-date: December 2014
 project: First Half Capstone
 category: Front End SPA
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: Personal capstone project to top off the first 3 months of learning front end development.  The idea is to help users create positive habits by tracking their "streaks".  After 60 days without breaking the streak, the habit is permanent.  Built using HTML, CSS, SASS, JavaScript, jQuery, AngularJS, and FireBase.
 
 ---
