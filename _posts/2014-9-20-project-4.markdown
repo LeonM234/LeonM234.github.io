@@ -2,7 +2,7 @@
 title: Conway's Game of Life
 subtitle: Vanilla Javascript Project
 layout: default
-modal-id: 4
+modal-id: 5
 date: 2014-09-20
 img: dreams.png
 thumbnail: dreams-thumbnail.png
