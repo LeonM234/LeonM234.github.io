@@ -1,0 +1,15 @@
+---
+title: Calculator
+subtitle: Unit Testing Project
+layout: default
+modal-id: 3
+date: 2014-11-29
+img: calc.jpg
+thumbnail: calc-thumb.jpg
+alt: image-alt
+project-date: November 2014
+project: Class Assignment
+category: Unit Testing
+description: A simple calculator app designed to teach us unit testing using the Mocha/Chai testing framework, in addition to JavaScript and jQuery.  I got to work with one of my favorite people, Sonda, and build a cool little calculator.  Fun project.
+
+---
