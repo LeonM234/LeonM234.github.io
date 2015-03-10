@@ -339,6 +339,13 @@ section h3.section-subheading {
   }
 }
 
+@media(max-width:992px){
+  .tools {
+    visibility: hidden;
+    height: 1px;
+  }
+}
+
 .skill-heading {
   margin: 15px 0;
   text-transform: none;
