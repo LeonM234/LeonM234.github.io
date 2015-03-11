@@ -1,0 +1,15 @@
+---
+title: Final Capstone
+subtitle: A Work in Progress
+layout: default
+modal-id: 1
+date: 2015-03-27
+img: dreams.png
+thumbnail: dreams-thumbnail.png
+alt: image-alt
+project-date: March 2015
+project: Final Capstone
+category: Full Stack
+description: Our final assignment, combining everything we've learned at NSS so far.
+
+---
