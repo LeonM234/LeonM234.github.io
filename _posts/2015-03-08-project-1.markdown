@@ -2,7 +2,7 @@
 title: Forge
 subtitle: Capstone Project 1
 layout: default
-modal-id: 1
+modal-id: 3
 date: 2015-03-08
 img: forge.jpg
 thumbnail: forge-thumbnail.jpg
