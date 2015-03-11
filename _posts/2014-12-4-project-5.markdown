@@ -1,15 +1,15 @@
 ---
-title: Angular To-Do App
+title: Angular Address App
 subtitle: An Intro to Angular
 layout: default
 modal-id: 4
 date: 2014-12-04
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+img: angularaddress.jpg
+thumbnail: angularaddress-thumb.jpg
 alt: image-alt
 project-date: December 2014
 project: Class Assignment
 category: Angular
-description: Getting our feet wet with AngularJS.  A simple to-do app I created as part of a class assignment.  The intention?  Introduce us to the concepts of data-binding, ng-repeats, and other (seemingly, at first) magical angular concepts.
+description: Getting our feet wet with AngularJS.  A simple CRUD app I created as part of a class assignment.  The intention?  Introduce us to the concepts of data-binding, ng-repeats, and other (seemingly, at first) magical angular concepts.
 
 ---
