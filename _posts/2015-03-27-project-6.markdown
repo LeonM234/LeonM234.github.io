@@ -1,6 +1,6 @@
 ---
 title: Final Capstone
-subtitle: A Work in Progress
+subtitle: Which___?
 layout: default
 modal-id: 1
 date: 2015-03-27
@@ -10,6 +10,6 @@ alt: image-alt
 project-date: March 2015
 project: Final Capstone
 category: Full Stack
-description: Our final assignment, combining everything we've learned at NSS so far.
+description: Our final assignment, combining everything we've learned at NSS so far.  I decided to make 'Which___?' - a site where users can anonymously upload two items and have the community vote on which they like more.  The uploader can see the actual vote count on 'Whiches' he/she has submitted.  Built using AngularJS, jQuery, C#, Entity Framework, and a code first approach to creating databases.
 
 ---
