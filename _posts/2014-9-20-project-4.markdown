@@ -4,12 +4,12 @@ subtitle: Vanilla Javascript Project
 layout: default
 modal-id: 6
 date: 2014-09-20
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+img: conway.jpg
+thumbnail: conway-thumb.jpg
 alt: image-alt
 project-date: September 2014
 project: Class Assignment
 category: Javascript
-description: One of our earliest "deep dives" in Javascript.  At the time, for loops, tables, if-else statements were are still brand new and this was our push into the deep end.
+description: One of our earliest "deep dives" in Javascript.  At the time, for loops, tables, and if-else statements were are still brand new and this was our push into the deep end.  Everyone has seen Conway, so this is my chance to air some dirty (code) laundry from my early days.  Look at all those comments and giant functions.  *shudder*
 
 ---
