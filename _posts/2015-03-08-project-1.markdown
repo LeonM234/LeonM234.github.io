@@ -10,6 +10,6 @@ alt: image-alt
 project-date: December 2014
 project: First Half Capstone
 category: Front End SPA
-description: Personal capstone project to top off the first 3 months of learning front end development.  The idea is to help users create positive habits by tracking their "streaks".  After 60 days without breaking the streak, the habit is permanent.  Built using HTML, CSS, SASS, JavaScript, jQuery, AngularJS, and FireBase.
+description: Personal capstone project to top off the first 3 months of learning front end development.  The idea is to help users create positive habits by tracking their "streaks".  After 60 days without breaking the streak, the habit is permanent.  Built using HTML, CSS, SASS, JavaScript, jQuery, AngularJS, and FireBase. Visit the site and try it for yourself - <a href="http://forgeapp.firebaseapp.com" target="_blank"> FORGE </a>
 
 ---

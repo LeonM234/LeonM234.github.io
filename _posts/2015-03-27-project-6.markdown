@@ -1,11 +1,11 @@
 ---
-title: Final Capstone
-subtitle: Which___?
+title: Which___?
+subtitle: Final Capstone
 layout: default
 modal-id: 1
 date: 2015-03-27
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+img: which.jpg
+thumbnail: which-thumb.jpg
 alt: image-alt
 project-date: March 2015
 project: Final Capstone
